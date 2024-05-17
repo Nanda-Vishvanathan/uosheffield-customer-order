@@ -2,7 +2,7 @@
 
 **Task Description:**
 2. Build a simple API on top of this data. This API should provide 2 REST endpoints that return JSON for Customers and their Orders. The REST endpoints should be as follows:<br>
-  A. One that returns Customer and Order data for all Customers. This endpointshould also allow you to query for all active or archived Customers.<br>
+  A. One that returns Customer and Order data for all Customers. This endpoint should also allow you to query for all active or archived Customers.<br>
   B. Another that returns the same data for a single Customer using a Customer id.<br>
 
 **Tech Stack:**
