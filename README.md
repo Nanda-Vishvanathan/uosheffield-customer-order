@@ -54,4 +54,4 @@ Deploy it using manually, s3 or using CLI.
 Endpoints results:
 
 ***https://kr79b3bnz8.execute-api.us-east-1.amazonaws.com/default/customers*** - Returns all the customer details <br>
-***https:// https://kr79b3bnz8.execute-api.us-east-1.amazonaws.com/default/customer?id=2*** Returns customer details with id = 2
+***https://kr79b3bnz8.execute-api.us-east-1.amazonaws.com/default/customer?id=2*** Returns customer details with id = 2
