@@ -24,8 +24,8 @@
 
 As part of task 2, this project contains the code for an AWS Lambda function that is invoked by API Gateway that fetches data for customers and order from database. <br>
 Following are the AWS API Gateway (REST API):<br>
-***<aws:>/customers*** - Return data of all the customers. <br>
-***<aws:>/customer>id=<int>*** - return data of customer based on id.<br>
+***<<aws:>>/customers*** - Return data of all the customers. <br>
+***<<aws:>>/customer?id=<<int>>*** - return data of customer based on id.<br>
 
 
 **Code Use**
