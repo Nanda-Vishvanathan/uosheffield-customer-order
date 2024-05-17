@@ -10,7 +10,7 @@
 1. Programming: Python 3.x<br>
 2. AWS Serverless - Lambda Function<br>
 3. AWS RDS- MySQL<br>
-4. AWS S3, SSM, Cloud Watch.<br>
+4. AWS SSM, Cloud Watch.<br>
 5. AWS API Gateway
 
 
