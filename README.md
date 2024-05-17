@@ -49,9 +49,4 @@ please install the requirements.txt from the folder<br>
 Zip the code using the following command:<br>
 ***zip -r customers_and_orders_processing_lambda.zip .<br>***
 
-Deploy it using manually, s3 or using CLI.
-
-Endpoints results:
-
-***https://kr79b3bnz8.execute-api.us-east-1.amazonaws.com/default/customers*** - Returns all the customer details <br>
-***https://kr79b3bnz8.execute-api.us-east-1.amazonaws.com/default/customer?id=2*** Returns customer details with id = 2
+Deploy manually, s3 or using CLI.
